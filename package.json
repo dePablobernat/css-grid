@@ -1,0 +1,25 @@
+{
+  "name": "css-grid",
+  "version": "1.0.0",
+  "description": "playground with the new css grid",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dePablobernat/css-grid.git"
+  },
+  "keywords": [
+    "Css",
+    "css-grid",
+    "grid",
+    "layout"
+  ],
+  "author": "Bernardo de Pablo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dePablobernat/css-grid/issues"
+  },
+  "homepage": "https://github.com/dePablobernat/css-grid#readme"
+}
